@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bokningssystem-Labb4", "Bokningssystem-Labb4\Bokningssystem-Labb4.csproj", "{B83F9B78-1CEF-40F7-9393-D44FD3E36D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BokningsModels", "BokningsModels\BokningsModels.csproj", "{AF844E26-E739-4589-8152-FA961BE99EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83F9B78-1CEF-40F7-9393-D44FD3E36D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83F9B78-1CEF-40F7-9393-D44FD3E36D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83F9B78-1CEF-40F7-9393-D44FD3E36D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83F9B78-1CEF-40F7-9393-D44FD3E36D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF844E26-E739-4589-8152-FA961BE99EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF844E26-E739-4589-8152-FA961BE99EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF844E26-E739-4589-8152-FA961BE99EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF844E26-E739-4589-8152-FA961BE99EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37682F21-0D57-421C-90F5-845D4F82FC58}
+	EndGlobalSection
+EndGlobal
